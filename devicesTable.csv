@@ -1,0 +1,51 @@
+device_id;device_name;device_type;production_date;last_service;device_status;service_period
+1;EKG Monitor;Medical Monitor;09.05.2019;27.01.2021;FREE;365
+2;Infusion Pump;Medical Device;27.04.2012;12.11.2020;BUSY;180
+3;X-ray Machine;Diagnostic Equipment;18.05.2015;24.12.2023;FREE;300
+4;Blood Pressure Monitor;Medical Monitor;10.07.2010;17.02.2022;FREE;250
+5;Ventilator;Life Support;22.06.2017;03.06.2022;BUSY;200
+6;MRI Scanner;Diagnostic Equipment;03.07.2013;23.04.2021;FREE;150
+7;Defibrillator;Emergency Device;24.11.2017;19.01.2023;FREE;365
+8;Pulse Oximeter;Medical Monitor;12.07.2012;26.07.2022;BUSY;180
+9;Anesthesia Machine;Life Support;06.01.2018;12.10.2023;FREE;250
+10;Ultrasound Machine;Diagnostic Equipment;06.08.2017;08.02.2022;FREE;300
+11;Blood Glucose Meter;Medical Monitor;07.07.2015;18.07.2023;FREE;180
+12;ECG Machine;Medical Monitor;24.05.2010;25.12.2021;BUSY;365
+13;Anesthetic Vaporizer;Life Support;08.03.2015;28.01.2022;FREE;200
+14;Spirometer;Medical Device;29.08.2010;25.03.2020;FREE;250
+15;Surgical Laser;Medical Device;09.10.2013;24.01.2021;BUSY;180
+16;Pacemaker;Life Support;30.08.2011;07.11.2021;FREE;365
+17;Electrocardiograph;Medical Monitor;28.09.2014;24.07.2022;FREE;200
+18;Ambulatory Blood Pressure Monitor;Medical Monitor;12.04.2015;22.07.2022;FREE;250
+19;Oxygen Concentrator;Life Support;18.10.2017;12.03.2020;BUSY;180
+20;Neonatal Incubator;Life Support;01.01.2012;08.01.2022;FREE;365
+21;Fetal Doppler;Medical Monitor;20.07.2011;05.11.2023;FREE;200
+22;Endoscope;Diagnostic Equipment;12.06.2013;22.05.2020;FREE;250
+23;Sphygmomanometer;Medical Monitor;13.03.2010;26.09.2020;BUSY;180
+24;Incubator;Life Support;20.06.2015;13.02.2021;FREE;365
+25;Surgical Microscope;Medical Device;16.08.2010;05.08.2022;FREE;200
+26;Holter Monitor;Medical Monitor;28.07.2010;15.07.2023;FREE;250
+27;Autoclave;Medical Device;13.02.2017;28.02.2022;BUSY;180
+28;Cryotherapy Unit;Medical Device;29.01.2016;11.12.2023;FREE;365
+29;Doppler Ultrasound;Diagnostic Equipment;03.03.2018;06.01.2021;FREE;200
+30;Electrosurgical Unit;Medical Device;08.08.2016;06.10.2020;FREE;250
+31;Glucometer;Medical Monitor;27.11.2014;01.06.2023;BUSY;180
+32;Infant Warmer;Life Support;04.09.2015;07.09.2020;FREE;365
+33;Ophthalmoscope;Diagnostic Equipment;09.02.2018;21.01.2022;FREE;200
+34;Phototherapy Unit;Life Support;28.08.2017;12.08.2023;FREE;250
+35;Pulse Oximetry Sensor;Medical Monitor;07.06.2017;21.07.2020;BUSY;180
+36;Radiation Therapy Machine;Medical Device;23.08.2018;20.12.2021;FREE;365
+37;Surgical C-Arm;Diagnostic Equipment;28.07.2012;01.02.2022;FREE;200
+38;Telemetry Monitor;Medical Monitor;08.03.2017;02.10.2020;FREE;250
+39;Vital Signs Monitor;Medical Monitor;31.10.2012;18.12.2021;BUSY;180
+40;Centrifuge;Medical Device;25.08.2011;03.11.2020;FREE;365
+41;Colposcope;Diagnostic Equipment;17.12.2011;18.04.2022;FREE;200
+42;Continuous Glucose Monitor;Medical Monitor;08.03.2013;29.05.2023;FREE;250
+43;Dental X-ray Machine;Diagnostic Equipment;03.03.2010;07.03.2021;BUSY;180
+44;ENT Endoscope;Diagnostic Equipment;30.07.2012;16.04.2020;FREE;365
+45;Fetal Monitor;Medical Monitor;14.02.2011;09.07.2022;FREE;200
+46;Medical Ventilator;Life Support;15.04.2015;19.05.2022;FREE;250
+47;Pulse Oximeter Probe;Medical Monitor;16.07.2019;16.07.2023;BUSY;180
+48;Suction Machine;Medical Device;22.01.2016;24.08.2022;FREE;365
+49;Ultrasonic Nebulizer;Medical Device;04.01.2014;10.06.2020;FREE;200
+50;Wheelchair;Assistive Device;30.06.2015;12.08.2020;FREE;250
